@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>测试</title>
+    <url>/2021/12/25/%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h2 id="这是一篇测试性文档。"><a href="#这是一篇测试性文档。" class="headerlink" title="这是一篇测试性文档。"></a>这是一篇测试性文档。</h2><h3 id="这是一篇测试性文档。-1"><a href="#这是一篇测试性文档。-1" class="headerlink" title="这是一篇测试性文档。"></a>这是一篇测试性文档。</h3>]]></content>
+  </entry>
+  <entry>
+    <title>世界,你好</title>
+    <url>/2021/12/25/%E4%B8%96%E7%95%8C,%E4%BD%A0%E5%A5%BD/</url>
+    <content><![CDATA[<p>欢迎来到<a href="https://hexo.io/">Hexo</a>! 这是你的第一篇文章。 点击 <a href="https://hexo.io/docs/">文档</a> 获取更多信息。如果您在使用Hexo时遇到任何问题，您可以点击 <a href="https://hexo.io/docs/troubleshooting.html">解决问题</a> 或者在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a>上询问我.</p>
+<h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight plaintext"><figcaption><span>bush输入命令</span></figcaption><table><tr><td class="code"><pre><span class="line">$ hexo new &quot;My New Post&quot;</span><br></pre></td></tr></table></figure>
+
+<p>更多信息: <a href="https://hexo.io/docs/writing.html">写作</a></p>
+<h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>更多信息 : <a href="https://hexo.io/docs/server.html">服务器</a></p>
+<h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>更多信息: <a href="https://hexo.io/docs/generating.html">生成</a></p>
+<h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>
+<p>###本初始文档由HFCNLYOKO翻译</p>
+]]></content>
+  </entry>
+</search>
