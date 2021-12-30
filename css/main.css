@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9cc2ff;
+  background: #ff01ee;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2162,7 +2162,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .header-inner {
-  background: var(--content-bg-color);
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: initial;
   overflow: hidden;
@@ -2195,7 +2195,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .content-wrap {
-  background: var(--content-bg-color);
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: initial;
   box-sizing: border-box;
@@ -2229,7 +2229,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .site-brand-container {
-  background: #222;
+  background: rgba(255,143,237,0.8);
 }
 @media (max-width: 991px) {
   .site-brand-container {
@@ -2291,7 +2291,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .menu .menu-item .badge {
-  background: #ccc;
+  background: rgba(255,255,255,0.7);
   border-radius: 10px;
   color: #fff;
   float: right;
@@ -2300,7 +2300,7 @@ ul.breadcrumb li + li:last-child {
   vertical-align: middle;
 }
 .main-menu .menu-item-active a::after {
-  background: #bbb;
+  background: rgba(255,255,255,0.7);
   border-radius: 50%;
   content: ' ';
   height: 6px;
@@ -2311,7 +2311,7 @@ ul.breadcrumb li + li:last-child {
   width: 6px;
 }
 .sub-menu {
-  background: var(--content-bg-color);
+  background: rgba(255,255,255,0.7);
   border-bottom: 1px solid #ddd;
   margin: 0;
   padding: 6px 0;
@@ -2338,7 +2338,7 @@ ul.breadcrumb li + li:last-child {
   border-bottom-color: #fc6423;
 }
 .sidebar {
-  background: var(--body-bg-color);
+  background: rgba(255,255,255,0.7);
   box-shadow: none;
   margin-top: 100%;
   position: static;
@@ -2353,7 +2353,7 @@ ul.breadcrumb li + li:last-child {
   display: none;
 }
 .sidebar-inner {
-  background: var(--content-bg-color);
+  background: rgba(255,255,255,0.7);
   border-radius: initial;
   box-shadow: initial;
   box-sizing: border-box;
@@ -2427,7 +2427,7 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-author-item a:hover,
 .links-of-author-item span.exturl:hover {
-  background: var(--body-bg-color);
+  background: rgba(255,255,255,0.7);
   border-radius: 4px;
 }
 .links-of-author-item .fa,
@@ -2438,4 +2438,11 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-blogroll-item {
   padding: 0;
+}
+body {
+  background: url("../images/alice.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
